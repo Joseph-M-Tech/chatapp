@@ -1,5 +1,6 @@
 <?php
-public function pricing {
-    $_COOKIE= 45;
+// public function pricing {
+//     $_COOKIE= 45;
 
-}
+// }
+
